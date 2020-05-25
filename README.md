@@ -1,5 +1,5 @@
 # ML2019BIU
-Josseph Kesshet Into to machine lraning course exercises.
+Josseph Kesshet Intro to machine learning course exercises.
 
 ## ex1:
 Creating our own SVM and KMeans classifier without using other libraries to classify images.
